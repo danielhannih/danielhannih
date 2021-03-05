@@ -13,6 +13,20 @@ vegan.rocks is a collection of articles and carefully researched resources about
 
 Thinking of going vegan? Take a look: [vegan.rocks](https://vegan.rocks/)
 
+### swatches.gallery
+swatches.gallery generates thousands of beautiful color gradients for designers and developers, with just a simple click. I created this tool because I am lazy of coming up with new gradients. 🤫
+
+Looking for beautiful gradients? [swatches.gallery](https://swatches.gallery/)
+
+### 💭 Thoughts Chat
+Thoughts Chat is an anonymous public chat app where you can tell the world what you're thinking.
+
+Let the world know your thoughts: [Thoughts Chat](https://thoughts.chat/)
+
+
+
+
+
 
 ### Wanna know more?
 My personal website [danielhannih.com](https://danielhannih.com/) & my art website [hannih.com](https://hannih.com/).
