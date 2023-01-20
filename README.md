@@ -18,6 +18,11 @@ An MTG (Magic: The Gathering) companion tool that helps you uncover combos in yo
 
 Find your combos: [EDH Decklist Combo Finder](https://combo-finder.com/)
 
+### 🔍 EDH Combo Search Engine
+EDH-Combos.com is a collection with thousands of EDH / Commander combos. Find your next combo and learn which cards you need, and how to pull it off!
+
+Look up your next combo move here: [EDH Combo Search Engine](https://edh-combos.com/)
+
 ### 🎨 swatches.gallery
 swatches.gallery generates thousands of beautiful color gradients for designers and developers, with just a simple click. I created this tool because I am lazy of coming up with new gradients. 🤫
 
