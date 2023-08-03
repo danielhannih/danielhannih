@@ -8,10 +8,10 @@ PsyCat Games is an entertainment platform founded in 2018 that provides party ga
 
 Have a look: [PsyCat Games](https://psycatgames.com/)
 
-### 🌱 vegan.rocks
-vegan.rocks is a collection of articles and carefully researched resources about the vegan lifestyle, plant-based diets, and what you can contribute to a more sustainable environment.
+### 🥑 FeelGoodPal
+FeelGoodPal provides accessible and understandable knowledge about nutrition, health, and well-being so you can make the best possible decisions about your health.
 
-Thinking of going vegan? Take a look: [vegan.rocks](https://vegan.rocks/)
+Get reliable nutrition, health & well-being advice: [FeelGoodPal.com](https://feelgoodpal.com/)
 
 ### 🐉 EDH Decklist Combo Finder
 An MTG (Magic: The Gathering) companion tool that helps you uncover combos in your deck. Copy and paste your decklist to find every combo of your deck, and discover potential combos where you miss 1 combo piece.
