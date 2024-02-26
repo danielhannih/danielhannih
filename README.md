@@ -13,7 +13,7 @@ FeelGoodPal provides accessible and understandable knowledge about nutrition, he
 
 Get reliable nutrition, health & well-being advice: [FeelGoodPal.com](https://feelgoodpal.com/)
 
-### Vegan Calculator
+### 🌱 Vegan Calculator
 Wondering how much water, grain, forest, CO2, and how many animals lives you're saving while thriving on a vegan or vegetarian lifestyle? [Check out the Vegan Calculator](https://vegancalculator.app/)
 
 ### 🐉 EDH Decklist Combo Finder
