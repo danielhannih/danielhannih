@@ -13,6 +13,9 @@ FeelGoodPal provides accessible and understandable knowledge about nutrition, he
 
 Get reliable nutrition, health & well-being advice: [FeelGoodPal.com](https://feelgoodpal.com/)
 
+### Vegan Calculator
+Wondering how much water, grain, forest, CO2, and how many animals lives you're saving while thriving on a vegan or vegetarian lifestyle? [Check out the Vegan Calculator](https://vegancalculator.app/)
+
 ### 🐉 EDH Decklist Combo Finder
 An MTG (Magic: The Gathering) companion tool that helps you uncover combos in your deck. Copy and paste your decklist to find every combo of your deck, and discover potential combos where you miss 1 combo piece.
 
