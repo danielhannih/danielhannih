@@ -26,6 +26,11 @@ EDH-Combos.com is a collection with thousands of EDH / Commander combos. Find yo
 
 Look up your next combo move here: [EDH Combo Search Engine](https://edh-combos.com/)
 
+### ▶️ WatchEDH: Commander / EDH Video Search
+WatchEDH connects Magic: The Gathering fans to thousands of gameplay videos. Search and discover content from YouTube's top EDH channels, and watch your favorite commanders in real EDH gameplay.
+
+Discover EDH gameplay videos: [WatchEDH.com](https://watchedh.com/)
+
 ### 🎨 swatches.gallery
 swatches.gallery generates thousands of beautiful color gradients for designers and developers, with just a simple click. I created this tool because I am lazy of coming up with new gradients. 🤫
 
