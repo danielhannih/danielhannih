@@ -26,6 +26,11 @@ WatchEDH connects Magic: The Gathering fans to thousands of gameplay videos. Sea
 
 Discover EDH gameplay videos: [WatchEDH.com](https://watchedh.com/)
 
+### 📚 EDH.Wiki
+A Commander database for Magic: The Gathering to find similar Commanders, strong synergies, and hidden gems to build better EDH decks.
+
+[Find Your Next Commander](https://edh.wiki/)
+
 ### 🥑 FeelGoodPal
 FeelGoodPal provides accessible and understandable knowledge about nutrition, health, and well-being so you can make the best possible decisions about your health.
 
